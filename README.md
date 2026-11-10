@@ -5,7 +5,7 @@
 | Скилл | Что делает |
 |---|---|
 | [image-prompts](skills/image-prompts/SKILL.md) | Пишет и чинит промпты для GPT Image 2.5, Nano Banana 2.1 и Seedream 5 |
-| [omni-video-prompts](skills/omni-video-prompts/SKILL.md) | Пишет и чинит промпты для видеомодели Gemini Omni 1.2 Flash |
+| [video-prompts](skills/video-prompts/SKILL.md) | Пишет и чинит промпты для видеомоделей Gemini Omni 1.2, Seedance 2.5 и 2.0, Kling 4.0 и 3.0, Veo 3.1: тайминги, референсы, речь, правка и продление |
 
 ## Исследования
 

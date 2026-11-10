@@ -1,6 +1,6 @@
 # Провалы Omni 1.2 и насколько им верить
 
-Каждая строка: что ломается, откуда известно, что с этим делать. Источники и подробности - в заметках исследования: [google-omni-1.2.md](https://github.com/ykurilov/image-video-skills/blob/main/research/google-omni-1.2.md).
+Каждая строка: что ломается, откуда известно, что с этим делать. Источники и подробности - в заметках исследования: https://github.com/ykurilov/image-video-skills/blob/main/research/google-omni-1.2.md.
 
 ## Признаёт Google
 
