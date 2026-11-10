@@ -101,4 +101,4 @@
 | Ошибки каждый раз в новом месте | pro | Повторить генерацию, бриф не трогать |
 | Отказ на безобидный бриф | pro | Заменить слова, похожие на запретные |
 
-Подробности и источники: `/Volumes/YurySSD/МоиПроекты/Оптимизируем промпты/research/seedream-5.md`.
+Подробности и источники: [seedream-5.md](https://github.com/ykurilov/image-video-skills/blob/main/research/seedream-5.md).

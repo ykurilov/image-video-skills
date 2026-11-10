@@ -7,6 +7,10 @@
 | [image-prompts](skills/image-prompts/SKILL.md) | Пишет и чинит промпты для GPT Image 2.5, Nano Banana 2.1 и Seedream 5 |
 | [omni-video-prompts](skills/omni-video-prompts/SKILL.md) | Пишет и чинит промпты для видеомодели Gemini Omni 1.2 Flash |
 
+## Исследования
+
+В папке [research](research) - отчёты с источниками, на которых стоят правила скиллов. Сведения на 10 ноября 2026.
+
 ## Установка
 
 Скопировать папку скилла в `~/.agents/skills/` (или в `~/.claude/skills/`).

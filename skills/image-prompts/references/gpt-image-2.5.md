@@ -6,7 +6,7 @@
 
 - `gpt-image-2.5-flare` - быстрее. `gpt-image-2.5-sunburst` - качество выше, работает дольше. Возможности одинаковые, бриф один и тот же.
 - Преимущество Sunburst заметно на качестве `high` и выше, на больших кадрах и в цепочках правок.
-- У Юрия модель идёт через Runware: `openai:gpt-image@2.5-sunburst`, текст в `positivePrompt`, `quality` и `background` в объекте `settings`.
+- Через Runware: `openai:gpt-image@2.5-sunburst`, текст в `positivePrompt`, `quality` и `background` в объекте `settings`.
 - С 4 ноября 2026 есть GPT Image 2.6. Правила брифа те же. Только у 2.6: параметр `complexity` (для точечных правок начинать с `low`), вывод в SVG и GIF.
 
 ## Как читает бриф
@@ -73,4 +73,4 @@
 | Строгий вид сверху | Обхода не найдено |
 | Шум и зерно в небе и тёмных зонах, особенно после нескольких правок | Обхода не найдено: текстом не лечится |
 
-Подробности и источники: `/Volumes/YurySSD/МоиПроекты/Оптимизируем промпты/research/gpt-image-2.5.md`.
+Подробности и источники: [gpt-image-2.5.md](https://github.com/ykurilov/image-video-skills/blob/main/research/gpt-image-2.5.md).
